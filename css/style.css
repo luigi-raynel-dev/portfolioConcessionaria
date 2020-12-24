@@ -55,7 +55,7 @@ nav.mobile{
 
 nav.mobile ul{
 	display: none;
-	width: 97%;
+	width: 100%;
 	left: 0;
 	top: 97px;
 	border-bottom:4px solid #EB2D2D;
